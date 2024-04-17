@@ -46,6 +46,7 @@ userID varchar(10) foreign key references Userdetails (userID),
 Ticket_no numeric(4) Primary key not null, 
 Class varchar(7) not null)
 select * from Ticket_Booking
+
 alter table Ticket_booking drop column Train_name
 
 
@@ -61,7 +62,7 @@ _status varchar(20),
 Train_id  numeric (5) foreign key references Traindetail(Train_ID) not null,
 refundAmt int )
 select * from Ticket_Cancellation
-select * from Ticket_Booking
+select * from Ticket_Booking where Train_id = 10223
 
 
 
@@ -118,20 +119,20 @@ end
 ------------------------------------------------------------------------------------------>>>>>>>>>>>>>>>>>>>>>>
 
 
----> creating Stored Procedure for ticket Booking.....
+---> creating Stored Procedure for ticket Cancellation.....
 Create or alter proc
 Seatcancelled(@trainid int, @class varchar(20))
 as
 begin
 
 if @class='1Ac'
-update Seat_available set [1AC] =[1AC]-1 where Train_id=@trainid
+update Seat_available set [1AC] =[1AC]+1 where Train_id=@trainid
 
 else if @class ='2Ac'
-update Seat_available set [2AC] =[2AC]-1 where Train_id=@trainid
+update Seat_available set [2AC] =[2AC]+1 where Train_id=@trainid
 
 else if @class ='SL'
-update Seat_available set [SL] =[SL]-1 where Train_id=@trainid
+update Seat_available set [SL] =[SL]+1 where Train_id=@trainid
 end
 
 --------------------------------------------------------------------------------------------->>>>>>>>>>>>>>>>>>>>>>>>
@@ -168,8 +169,15 @@ values
 (@TrainNo,@firstAcSeatsfare,@SecAcSeatsfare,@SLSeatsfare)
 
 ----------------------------------------------------------------------------------------->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+--procedure for Ticket Cancellation....
+
+create or alter proc CancelTicket(@canId int, @Tnum int,@train_id int,@refund int)
+as 
+begin
+	insert into Ticket_Cancellation  values(@canId,@Tnum,'cancelled',@train_id,@Refund)
+end
 
 
-
-
-
+select * from Ticket_Booking
+select * from Ticket_Cancellation
+select * from Seat_available
