@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\RR_system\\RR_system_VSCODE\\RR_System_MP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC9773B-A6FB-47BF-A3F2-7600981CBAE6}|RR_System_MP\\RR_System_MP.csproj|d:\\rr_system\\rr_system_vscode\\rr_system_mp\\rr_system_mp\\rr_system\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC9773B-A6FB-47BF-A3F2-7600981CBAE6}|RR_System_MP\\RR_System_MP.csproj|solutionrelative:rr_system_mp\\rr_system\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC9773B-A6FB-47BF-A3F2-7600981CBAE6}|RR_System_MP\\RR_System_MP.csproj|d:\\rr_system\\rr_system_vscode\\rr_system_mp\\rr_system_mp\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{9DC9773B-A6FB-47BF-A3F2-7600981CBAE6}|RR_System_MP\\RR_System_MP.csproj|solutionrelative:rr_system_mp\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC9773B-A6FB-47BF-A3F2-7600981CBAE6}|RR_System_MP\\RR_System_MP.csproj|D:\\RR_system\\RR_system_VSCODE\\RR_System_MP\\rr_system_mp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC9773B-A6FB-47BF-A3F2-7600981CBAE6}|RR_System_MP\\RR_System_MP.csproj|solutionrelative:rr_system_mp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC9773B-A6FB-47BF-A3F2-7600981CBAE6}|RR_System_MP\\RR_System_MP.csproj|D:\\RR_system\\RR_system_VSCODE\\RR_System_MP\\rr_system_mp\\rr_system\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC9773B-A6FB-47BF-A3F2-7600981CBAE6}|RR_System_MP\\RR_System_MP.csproj|solutionrelative:rr_system_mp\\rr_system\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\RR_system\\RR_system_VSCODE\\RR_System_MP\\RR_System_MP\\RR_system\\User.cs",
+              "RelativeDocumentMoniker": "RR_System_MP\\RR_system\\User.cs",
+              "ToolTip": "D:\\RR_system\\RR_system_VSCODE\\RR_System_MP\\RR_System_MP\\RR_system\\User.cs",
+              "RelativeToolTip": "RR_System_MP\\RR_system\\User.cs",
+              "ViewState": "AQIAAAEBAAAAAAAAAAAAACMBAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T11:29:21.482Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\RR_system\\RR_system_VSCODE\\RR_System_MP\\RR_System_MP\\Model1.edmx",
+              "RelativeDocumentMoniker": "RR_System_MP\\Model1.edmx",
+              "ToolTip": "D:\\RR_system\\RR_system_VSCODE\\RR_System_MP\\RR_System_MP\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "RR_System_MP\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-04-17T10:57:11.385Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "D:\\RR_system\\RR_system_VSCODE\\RR_System_MP\\RR_System_MP\\RR_system\\Admin.cs",
+              "RelativeDocumentMoniker": "RR_System_MP\\RR_system\\Admin.cs",
+              "ToolTip": "D:\\RR_system\\RR_system_VSCODE\\RR_System_MP\\RR_System_MP\\RR_system\\Admin.cs",
+              "RelativeToolTip": "RR_System_MP\\RR_system\\Admin.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAArwJcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T09:42:03.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\RR_system\\RR_system_VSCODE\\RR_System_MP\\RR_System_MP\\Program.cs",
+              "RelativeDocumentMoniker": "RR_System_MP\\Program.cs",
+              "ToolTip": "D:\\RR_system\\RR_system_VSCODE\\RR_System_MP\\RR_System_MP\\Program.cs",
+              "RelativeToolTip": "RR_System_MP\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T09:39:50.683Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

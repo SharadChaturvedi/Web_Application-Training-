@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="RR_systemModelStoreContainer" CdmEntityContainer="RR_systemEntities">
+    <EntitySetMapping Name="Admindetails">
+      <EntityTypeMapping TypeName="RR_systemModel.Admindetail">
+        <MappingFragment StoreEntitySet="Admindetails">
+          <ScalarProperty Name="Admin_id" ColumnName="Admin_id" />
+          <ScalarProperty Name="Admin_name" ColumnName="Admin_name" />
+          <ScalarProperty Name="Admin_password" ColumnName="Admin_password" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Ticket_Booking">
+      <EntityTypeMapping TypeName="RR_systemModel.Ticket_Booking">
+        <MappingFragment StoreEntitySet="Ticket_Booking">
+          <ScalarProperty Name="Train_id" ColumnName="Train_id" />
+          <ScalarProperty Name="userID" ColumnName="userID" />
+          <ScalarProperty Name="Ticket_no" ColumnName="Ticket_no" />
+          <ScalarProperty Name="Class" ColumnName="Class" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Ticket_Cancellation">
+      <EntityTypeMapping TypeName="RR_systemModel.Ticket_Cancellation">
+        <MappingFragment StoreEntitySet="Ticket_Cancellation">
+          <ScalarProperty Name="refundAmt" ColumnName="refundAmt" />
+          <ScalarProperty Name="Train_id" ColumnName="Train_id" />
+          <ScalarProperty Name="C_status" ColumnName="_status" />
+          <ScalarProperty Name="Cancellation_Id" ColumnName="Cancellation_Id" />
+          <ScalarProperty Name="Ticket_no" ColumnName="Ticket_no" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Traindetails">
+      <EntityTypeMapping TypeName="RR_systemModel.Traindetail">
+        <MappingFragment StoreEntitySet="Traindetail">
+          <ScalarProperty Name="Train_id" ColumnName="Train_id" />
+          <ScalarProperty Name="Train_name" ColumnName="Train_name" />
+          <ScalarProperty Name="City_of_Departure" ColumnName="City_of_Departure" />
+          <ScalarProperty Name="city_of_Arrival" ColumnName="city_of_Arrival" />
+          <ScalarProperty Name="Status_of_Train" ColumnName="Status_of_Train" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Userdetails">
+      <EntityTypeMapping TypeName="RR_systemModel.Userdetail">
+        <MappingFragment StoreEntitySet="Userdetails">
+          <ScalarProperty Name="S_no" ColumnName="S_no" />
+          <ScalarProperty Name="userID" ColumnName="userID" />
+          <ScalarProperty Name="userPassword" ColumnName="userPassword" />
+          <ScalarProperty Name="userEmail" ColumnName="userEmail" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Class_price">
+      <EntityTypeMapping TypeName="RR_systemModel.Class_price">
+        <MappingFragment StoreEntitySet="Class_price">
+          <ScalarProperty Name="serial_num" ColumnName="serial_num" />
+          <ScalarProperty Name="Train_no" ColumnName="Train_no" />
+          <ScalarProperty Name="C1AC" ColumnName="1AC" />
+          <ScalarProperty Name="C2AC" ColumnName="2AC" />
+          <ScalarProperty Name="SL" ColumnName="SL" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Seat_available">
+      <EntityTypeMapping TypeName="RR_systemModel.Seat_available">
+        <MappingFragment StoreEntitySet="Seat_available">
+          <ScalarProperty Name="serial_num" ColumnName="serial_num" />
+          <ScalarProperty Name="Train_Id" ColumnName="Train_Id" />
+          <ScalarProperty Name="C1AC" ColumnName="1AC" />
+          <ScalarProperty Name="C2AC" ColumnName="2AC" />
+          <ScalarProperty Name="SL" ColumnName="SL" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="SeatAvl" FunctionName="RR_systemModel.Store.SeatAvl" />
+    <FunctionImportMapping FunctionImportName="Seatcancelled" FunctionName="RR_systemModel.Store.Seatcancelled" />
+    <FunctionImportMapping FunctionImportName="AddclassFair" FunctionName="RR_systemModel.Store.AddclassFair" />
+    <FunctionImportMapping FunctionImportName="AddclassSeats" FunctionName="RR_systemModel.Store.AddclassSeats" />
+    <FunctionImportMapping FunctionImportName="CancelTicket" FunctionName="RR_systemModel.Store.CancelTicket" />
+  </EntityContainerMapping>
+</Mapping>

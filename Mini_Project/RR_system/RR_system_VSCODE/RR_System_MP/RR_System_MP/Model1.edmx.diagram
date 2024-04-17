@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="bc0fc57766e24a9bb37249a3388e0ce6" Name="Diagram1">
+        <EntityTypeShape EntityType="RR_systemModel.Admindetail" Width="1.5" PointX="5" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RR_systemModel.Ticket_Booking" Width="1.5" PointX="7.125" PointY="0.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="RR_systemModel.Ticket_Cancellation" Width="1.5" PointX="4.625" PointY="0.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="RR_systemModel.Traindetail" Width="1.5" PointX="0.5" PointY="2.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="RR_systemModel.Userdetail" Width="1.5" PointX="2.375" PointY="0.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="RR_systemModel.Class_price" Width="1.5" PointX="7.375" PointY="3.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="RR_systemModel.Seat_available" Width="1.5" PointX="2.75" PointY="4.25" IsExpanded="true" />
+        <AssociationConnector Association="RR_systemModel.FK__Ticket_Bo__Train__6754599E" ManuallyRouted="false" />
+        <AssociationConnector Association="RR_systemModel.FK__Ticket_Bo__userI__68487DD7" ManuallyRouted="false" />
+        <AssociationConnector Association="RR_systemModel.FK__Ticket_Ca__Ticke__6E01572D" ManuallyRouted="false" />
+        <AssociationConnector Association="RR_systemModel.FK__Class_pri__Train__72C60C4A" ManuallyRouted="false" />
+        <AssociationConnector Association="RR_systemModel.FK__Seat_avai__Train__70DDC3D8" ManuallyRouted="false" />
+        <AssociationConnector Association="RR_systemModel.FK__Ticket_Ca__Train__0A9D95DB" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -1,0 +1,12 @@
+D:\RR_system\RR_system_VSCODE\RR_System_MP\RR_System_MP\bin\Debug\RR_System_MP.exe.config
+D:\RR_system\RR_system_VSCODE\RR_System_MP\RR_System_MP\bin\Debug\RR_System_MP.exe
+D:\RR_system\RR_system_VSCODE\RR_System_MP\RR_System_MP\bin\Debug\RR_System_MP.pdb
+D:\RR_system\RR_system_VSCODE\RR_System_MP\RR_System_MP\bin\Debug\EntityFramework.dll
+D:\RR_system\RR_system_VSCODE\RR_System_MP\RR_System_MP\bin\Debug\EntityFramework.SqlServer.dll
+D:\RR_system\RR_system_VSCODE\RR_System_MP\RR_System_MP\bin\Debug\EntityFramework.xml
+D:\RR_system\RR_system_VSCODE\RR_System_MP\RR_System_MP\bin\Debug\EntityFramework.SqlServer.xml
+D:\RR_system\RR_system_VSCODE\RR_System_MP\RR_System_MP\obj\Debug\RR_System_MP.csproj.AssemblyReference.cache
+D:\RR_system\RR_system_VSCODE\RR_System_MP\RR_System_MP\obj\Debug\RR_System_MP.csproj.CoreCompileInputs.cache
+D:\RR_system\RR_system_VSCODE\RR_System_MP\RR_System_MP\obj\Debug\RR_Syste.6F2659BF.Up2Date
+D:\RR_system\RR_system_VSCODE\RR_System_MP\RR_System_MP\obj\Debug\RR_System_MP.exe
+D:\RR_system\RR_system_VSCODE\RR_System_MP\RR_System_MP\obj\Debug\RR_System_MP.pdb
