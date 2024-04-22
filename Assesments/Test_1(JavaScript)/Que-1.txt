@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Calculator For Multiply and Divide of Two Numbers</title>
+  <style>
+    body {
+  font-family: Georgia, serif;
+  margin: 0;
+  padding: 20px;
+  background-color:white; 
+}
+
+h1 {
+  margin-bottom: 20px;
+  color:black; 
+}
+
+label {
+  display: inline-block;
+  width: 120px;
+  color: red; 
+}
+
+input[type="number"] {
+  width: 200px;
+  padding: 5px;
+  margin-bottom: 10px;
+  border: 1px solid brown; 
+}
+
+input[type="button"] {
+  width: 100px;
+  padding: 10px;
+  margin-right: 10px;
+  background-color: cornflowerblue; 
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+input[type="button"]:hover {
+  background-color:lightgreen; /* Change button background color on hover */
+}
+
+p#result {
+  margin-top: 20px;
+  color:green; 
+}
+  </style>
+</head>
+<body>
+ 
+<h1>Multiplication and Division Calculator</h1>
+<label for="firstNumber">First Number:</label>
+<input type="number" id="firstNumber" placeholder="Enter first number">
+<br>
+<label for="secondNumber">Second Number:</label>
+<input type="number" id="secondNumber" placeholder="Enter second number">
+<br>
+<input type="button" value="Multiply" onclick="multiplyBy()">
+<input type="button" value="Divide" onclick="divideBy()">
+<p id="result"></p>
+ 
+<script>
+function multiplyBy() {
+  //Here we will give the value of first and second number
+  var num1 = parseFloat(document.getElementById("firstNumber").value);
+  var num2 = parseFloat(document.getElementById("secondNumber").value);
+ 
+  // Result will be the product of num 1 and num 2 for multiplication ...
+  document.getElementById("result").innerHTML = num1 * num2;
+}
+ 
+function divideBy() {
+  // Here we will be Giving values 
+  var num1 = parseFloat(document.getElementById("firstNumber").value);
+ 
+  // Get the value entered in the input field with the id "secondNumber"
+  var num2 = parseFloat(document.getElementById("secondNumber").value);
+ 
+  // Check if the divisor (second number) is zero
+  if (num2 == 0 || isNaN(num2)) {
+    document.getElementById("result").innerHTML = "Error: Please enter a valid second number";
+  } else {
+    // This will give the output if the numbers are valid ....
+    document.getElementById("result").innerHTML = num1 / num2;
+  }
+}
+</script>
+ 
+</body>
+</html>
