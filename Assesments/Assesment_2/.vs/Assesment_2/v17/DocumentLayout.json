@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\web_Application\\Assesments\\Assesment_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{080E8C16-D0FA-42CC-A7C1-7C904B850612}|Assesment_2\\Assesment_2.csproj|d:\\web_application\\assesments\\assesment_2\\assesment_2\\controllers\\codecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{080E8C16-D0FA-42CC-A7C1-7C904B850612}|Assesment_2\\Assesment_2.csproj|solutionrelative:assesment_2\\controllers\\codecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080E8C16-D0FA-42CC-A7C1-7C904B850612}|Assesment_2\\Assesment_2.csproj|d:\\web_application\\assesments\\assesment_2\\assesment_2\\views\\code\\customeringermany.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{080E8C16-D0FA-42CC-A7C1-7C904B850612}|Assesment_2\\Assesment_2.csproj|solutionrelative:assesment_2\\views\\code\\customeringermany.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080E8C16-D0FA-42CC-A7C1-7C904B850612}|Assesment_2\\Assesment_2.csproj|d:\\web_application\\assesments\\assesment_2\\assesment_2\\views\\code\\customerdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{080E8C16-D0FA-42CC-A7C1-7C904B850612}|Assesment_2\\Assesment_2.csproj|solutionrelative:assesment_2\\views\\code\\customerdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080E8C16-D0FA-42CC-A7C1-7C904B850612}|Assesment_2\\Assesment_2.csproj|d:\\web_application\\assesments\\assesment_2\\assesment_2\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{080E8C16-D0FA-42CC-A7C1-7C904B850612}|Assesment_2\\Assesment_2.csproj|solutionrelative:assesment_2\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerDetails.cshtml",
+              "DocumentMoniker": "D:\\web_Application\\Assesments\\Assesment_2\\Assesment_2\\Views\\Code\\CustomerDetails.cshtml",
+              "RelativeDocumentMoniker": "Assesment_2\\Views\\Code\\CustomerDetails.cshtml",
+              "ToolTip": "D:\\web_Application\\Assesments\\Assesment_2\\Assesment_2\\Views\\Code\\CustomerDetails.cshtml",
+              "RelativeToolTip": "Assesment_2\\Views\\Code\\CustomerDetails.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T04:38:20.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerInGermany.cshtml",
+              "DocumentMoniker": "D:\\web_Application\\Assesments\\Assesment_2\\Assesment_2\\Views\\Code\\CustomerInGermany.cshtml",
+              "RelativeDocumentMoniker": "Assesment_2\\Views\\Code\\CustomerInGermany.cshtml",
+              "ToolTip": "D:\\web_Application\\Assesments\\Assesment_2\\Assesment_2\\Views\\Code\\CustomerInGermany.cshtml",
+              "RelativeToolTip": "Assesment_2\\Views\\Code\\CustomerInGermany.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T04:34:43.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CodeController.cs",
+              "DocumentMoniker": "D:\\web_Application\\Assesments\\Assesment_2\\Assesment_2\\Controllers\\CodeController.cs",
+              "RelativeDocumentMoniker": "Assesment_2\\Controllers\\CodeController.cs",
+              "ToolTip": "D:\\web_Application\\Assesments\\Assesment_2\\Assesment_2\\Controllers\\CodeController.cs",
+              "RelativeToolTip": "Assesment_2\\Controllers\\CodeController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T04:26:04.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\web_Application\\Assesments\\Assesment_2\\Assesment_2\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "Assesment_2\\Models\\Model1.edmx",
+              "ToolTip": "D:\\web_Application\\Assesments\\Assesment_2\\Assesment_2\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Assesment_2\\Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-04-29T04:24:13.358Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

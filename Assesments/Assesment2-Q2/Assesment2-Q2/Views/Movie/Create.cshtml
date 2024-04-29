@@ -1,0 +1,38 @@
+﻿@model Assesment2_Q2.Models.Movie
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Create Movie</title>
+</head>
+<body>
+    <h2>Create Movie</h2>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div>
+            <label>Movie ID:</label>
+            @Html.TextBoxFor(model => model.Mid)
+            @Html.ValidationMessageFor(model => model.Mid)
+        </div>
+
+        <div>
+            <label>Movie Name:</label>
+            @Html.TextBoxFor(model => model.Moviename)
+            @Html.ValidationMessageFor(model => model.Moviename)
+        </div>
+
+        <div>
+            <label>Date of Release:</label>
+            @Html.TextBoxFor(model => model.DateofRelease, new { type = "date" })
+            @Html.ValidationMessageFor(model => model.DateofRelease)
+        </div>
+
+        <button type="submit">Create</button>
+    }
+
+    <a href="@Url.Action("Index")">Back to List</a>
+</body>
+</html>

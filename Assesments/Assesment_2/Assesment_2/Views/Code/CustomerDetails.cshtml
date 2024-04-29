@@ -1,0 +1,30 @@
+﻿@model Assesment_2.Models.Customer
+@{
+    ViewBag.Title = "CustomerDetails";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Customer Details</title>
+</head>
+<body>
+    <h2 style="color:forestgreen">German Customers</h2>
+    <table>
+        <tr>
+            <th>Customer ID</th>
+            <th>Company Name</th>
+            <th>Contact Name</th>
+            <th>Contact Title</th>
+            <th>Country</th>
+        </tr>
+        <tr>
+            <td>@Model.CustomerID</td>
+            <td>@Model.CompanyName</td>
+            <td>@Model.ContactName</td>
+            <td>@Model.ContactTitle</td>
+            <td>@Model.Country</td>
+        </tr>
+    </table>
+</body>
+</html>
