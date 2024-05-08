@@ -3,43 +3,43 @@
   "WorkspaceRootPath": "D:\\web_Application\\Assesments\\Assesment2-Q2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{24F6563D-D5C7-46E5-9A42-7DE8073F0717}|Assesment2-Q2\\Assesment2-Q2.csproj|d:\\web_application\\assesments\\assesment2-q2\\assesment2-q2\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{24F6563D-D5C7-46E5-9A42-7DE8073F0717}|Assesment2-Q2\\Assesment2-Q2.csproj|D:\\web_Application\\Assesments\\Assesment2-Q2\\assesment2-q2\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24F6563D-D5C7-46E5-9A42-7DE8073F0717}|Assesment2-Q2\\Assesment2-Q2.csproj|solutionrelative:assesment2-q2\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F6563D-D5C7-46E5-9A42-7DE8073F0717}|Assesment2-Q2\\Assesment2-Q2.csproj|D:\\web_Application\\Assesments\\Assesment2-Q2\\assesment2-q2\\views\\movie\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24F6563D-D5C7-46E5-9A42-7DE8073F0717}|Assesment2-Q2\\Assesment2-Q2.csproj|solutionrelative:assesment2-q2\\views\\movie\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F6563D-D5C7-46E5-9A42-7DE8073F0717}|Assesment2-Q2\\Assesment2-Q2.csproj|D:\\web_Application\\Assesments\\Assesment2-Q2\\assesment2-q2\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F6563D-D5C7-46E5-9A42-7DE8073F0717}|Assesment2-Q2\\Assesment2-Q2.csproj|solutionrelative:assesment2-q2\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F6563D-D5C7-46E5-9A42-7DE8073F0717}|Assesment2-Q2\\Assesment2-Q2.csproj|D:\\web_Application\\Assesments\\Assesment2-Q2\\assesment2-q2\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24F6563D-D5C7-46E5-9A42-7DE8073F0717}|Assesment2-Q2\\Assesment2-Q2.csproj|solutionrelative:assesment2-q2\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F6563D-D5C7-46E5-9A42-7DE8073F0717}|Assesment2-Q2\\Assesment2-Q2.csproj|D:\\web_Application\\Assesments\\Assesment2-Q2\\assesment2-q2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{24F6563D-D5C7-46E5-9A42-7DE8073F0717}|Assesment2-Q2\\Assesment2-Q2.csproj|solutionrelative:assesment2-q2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F6563D-D5C7-46E5-9A42-7DE8073F0717}|Assesment2-Q2\\Assesment2-Q2.csproj|D:\\web_Application\\Assesments\\Assesment2-Q2\\assesment2-q2\\models\\moviesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F6563D-D5C7-46E5-9A42-7DE8073F0717}|Assesment2-Q2\\Assesment2-Q2.csproj|solutionrelative:assesment2-q2\\models\\moviesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{24F6563D-D5C7-46E5-9A42-7DE8073F0717}|Assesment2-Q2\\Assesment2-Q2.csproj|d:\\web_application\\assesments\\assesment2-q2\\assesment2-q2\\views\\movie\\moviesbyyear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{24F6563D-D5C7-46E5-9A42-7DE8073F0717}|Assesment2-Q2\\Assesment2-Q2.csproj|solutionrelative:assesment2-q2\\views\\movie\\moviesbyyear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24F6563D-D5C7-46E5-9A42-7DE8073F0717}|Assesment2-Q2\\Assesment2-Q2.csproj|d:\\web_application\\assesments\\assesment2-q2\\assesment2-q2\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24F6563D-D5C7-46E5-9A42-7DE8073F0717}|Assesment2-Q2\\Assesment2-Q2.csproj|solutionrelative:assesment2-q2\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24F6563D-D5C7-46E5-9A42-7DE8073F0717}|Assesment2-Q2\\Assesment2-Q2.csproj|d:\\web_application\\assesments\\assesment2-q2\\assesment2-q2\\views\\movie\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{24F6563D-D5C7-46E5-9A42-7DE8073F0717}|Assesment2-Q2\\Assesment2-Q2.csproj|D:\\web_Application\\Assesments\\Assesment2-Q2\\assesment2-q2\\views\\movie\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{24F6563D-D5C7-46E5-9A42-7DE8073F0717}|Assesment2-Q2\\Assesment2-Q2.csproj|solutionrelative:assesment2-q2\\views\\movie\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24F6563D-D5C7-46E5-9A42-7DE8073F0717}|Assesment2-Q2\\Assesment2-Q2.csproj|d:\\web_application\\assesments\\assesment2-q2\\assesment2-q2\\views\\movie\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24F6563D-D5C7-46E5-9A42-7DE8073F0717}|Assesment2-Q2\\Assesment2-Q2.csproj|solutionrelative:assesment2-q2\\views\\movie\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24F6563D-D5C7-46E5-9A42-7DE8073F0717}|Assesment2-Q2\\Assesment2-Q2.csproj|d:\\web_application\\assesments\\assesment2-q2\\assesment2-q2\\views\\movie\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{24F6563D-D5C7-46E5-9A42-7DE8073F0717}|Assesment2-Q2\\Assesment2-Q2.csproj|D:\\web_Application\\Assesments\\Assesment2-Q2\\assesment2-q2\\views\\movie\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{24F6563D-D5C7-46E5-9A42-7DE8073F0717}|Assesment2-Q2\\Assesment2-Q2.csproj|solutionrelative:assesment2-q2\\views\\movie\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24F6563D-D5C7-46E5-9A42-7DE8073F0717}|Assesment2-Q2\\Assesment2-Q2.csproj|d:\\web_application\\assesments\\assesment2-q2\\assesment2-q2\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24F6563D-D5C7-46E5-9A42-7DE8073F0717}|Assesment2-Q2\\Assesment2-Q2.csproj|solutionrelative:assesment2-q2\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24F6563D-D5C7-46E5-9A42-7DE8073F0717}|Assesment2-Q2\\Assesment2-Q2.csproj|d:\\web_application\\assesments\\assesment2-q2\\assesment2-q2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{24F6563D-D5C7-46E5-9A42-7DE8073F0717}|Assesment2-Q2\\Assesment2-Q2.csproj|solutionrelative:assesment2-q2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24F6563D-D5C7-46E5-9A42-7DE8073F0717}|Assesment2-Q2\\Assesment2-Q2.csproj|d:\\web_application\\assesments\\assesment2-q2\\assesment2-q2\\models\\moviesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24F6563D-D5C7-46E5-9A42-7DE8073F0717}|Assesment2-Q2\\Assesment2-Q2.csproj|solutionrelative:assesment2-q2\\models\\moviesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24F6563D-D5C7-46E5-9A42-7DE8073F0717}|Assesment2-Q2\\Assesment2-Q2.csproj|d:\\web_application\\assesments\\assesment2-q2\\assesment2-q2\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{24F6563D-D5C7-46E5-9A42-7DE8073F0717}|Assesment2-Q2\\Assesment2-Q2.csproj|D:\\web_Application\\Assesments\\Assesment2-Q2\\assesment2-q2\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{24F6563D-D5C7-46E5-9A42-7DE8073F0717}|Assesment2-Q2\\Assesment2-Q2.csproj|solutionrelative:assesment2-q2\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -50,50 +50,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "MoviesByYear.cshtml",
               "DocumentMoniker": "D:\\web_Application\\Assesments\\Assesment2-Q2\\Assesment2-Q2\\Views\\Movie\\MoviesByYear.cshtml",
               "RelativeDocumentMoniker": "Assesment2-Q2\\Views\\Movie\\MoviesByYear.cshtml",
               "ToolTip": "D:\\web_Application\\Assesments\\Assesment2-Q2\\Assesment2-Q2\\Views\\Movie\\MoviesByYear.cshtml",
               "RelativeToolTip": "Assesment2-Q2\\Views\\Movie\\MoviesByYear.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAQAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-29T05:57:38.442Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\web_Application\\Assesments\\Assesment2-Q2\\Assesment2-Q2\\Views\\Movie\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Assesment2-Q2\\Views\\Movie\\Delete.cshtml",
-              "ToolTip": "D:\\web_Application\\Assesments\\Assesment2-Q2\\Assesment2-Q2\\Views\\Movie\\Delete.cshtml",
-              "RelativeToolTip": "Assesment2-Q2\\Views\\Movie\\Delete.cshtml",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAmwBUAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-29T05:55:32.445Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\web_Application\\Assesments\\Assesment2-Q2\\Assesment2-Q2\\Views\\Movie\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Assesment2-Q2\\Views\\Movie\\Edit.cshtml",
-              "ToolTip": "D:\\web_Application\\Assesments\\Assesment2-Q2\\Assesment2-Q2\\Views\\Movie\\Edit.cshtml",
-              "RelativeToolTip": "Assesment2-Q2\\Views\\Movie\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-29T05:51:34.891Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\web_Application\\Assesments\\Assesment2-Q2\\Assesment2-Q2\\Views\\Movie\\Create.cshtml",
               "RelativeDocumentMoniker": "Assesment2-Q2\\Views\\Movie\\Create.cshtml",
@@ -106,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Movie.cs",
               "DocumentMoniker": "D:\\web_Application\\Assesments\\Assesment2-Q2\\Assesment2-Q2\\Models\\Movie.cs",
               "RelativeDocumentMoniker": "Assesment2-Q2\\Models\\Movie.cs",
@@ -119,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\web_Application\\Assesments\\Assesment2-Q2\\Assesment2-Q2\\Views\\Movie\\Index.cshtml",
               "RelativeDocumentMoniker": "Assesment2-Q2\\Views\\Movie\\Index.cshtml",
@@ -138,14 +112,14 @@
               "RelativeDocumentMoniker": "Assesment2-Q2\\Controllers\\MovieController.cs",
               "ToolTip": "D:\\web_Application\\Assesments\\Assesment2-Q2\\Assesment2-Q2\\Controllers\\MovieController.cs",
               "RelativeToolTip": "Assesment2-Q2\\Controllers\\MovieController.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAuwFQAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-29T05:26:55.66Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Web.config",
               "DocumentMoniker": "D:\\web_Application\\Assesments\\Assesment2-Q2\\Assesment2-Q2\\Web.config",
               "RelativeDocumentMoniker": "Assesment2-Q2\\Web.config",
@@ -158,20 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "packages.config",
-              "DocumentMoniker": "D:\\web_Application\\Assesments\\Assesment2-Q2\\Assesment2-Q2\\packages.config",
-              "RelativeDocumentMoniker": "Assesment2-Q2\\packages.config",
-              "ToolTip": "D:\\web_Application\\Assesments\\Assesment2-Q2\\Assesment2-Q2\\packages.config",
-              "RelativeToolTip": "Assesment2-Q2\\packages.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-04-29T05:24:22.589Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "MoviesDbcontext.cs",
               "DocumentMoniker": "D:\\web_Application\\Assesments\\Assesment2-Q2\\Assesment2-Q2\\Models\\MoviesDbcontext.cs",
               "RelativeDocumentMoniker": "Assesment2-Q2\\Models\\MoviesDbcontext.cs",
@@ -181,6 +142,42 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-29T05:13:39.552Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\web_Application\\Assesments\\Assesment2-Q2\\Assesment2-Q2\\Views\\Movie\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Assesment2-Q2\\Views\\Movie\\Edit.cshtml",
+              "ToolTip": "D:\\web_Application\\Assesments\\Assesment2-Q2\\Assesment2-Q2\\Views\\Movie\\Edit.cshtml",
+              "RelativeToolTip": "Assesment2-Q2\\Views\\Movie\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T05:51:34.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\web_Application\\Assesments\\Assesment2-Q2\\Assesment2-Q2\\Views\\Movie\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Assesment2-Q2\\Views\\Movie\\Delete.cshtml",
+              "ToolTip": "D:\\web_Application\\Assesments\\Assesment2-Q2\\Assesment2-Q2\\Views\\Movie\\Delete.cshtml",
+              "RelativeToolTip": "Assesment2-Q2\\Views\\Movie\\Delete.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAcwBIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T05:55:32.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\web_Application\\Assesments\\Assesment2-Q2\\Assesment2-Q2\\packages.config",
+              "RelativeDocumentMoniker": "Assesment2-Q2\\packages.config",
+              "ToolTip": "D:\\web_Application\\Assesments\\Assesment2-Q2\\Assesment2-Q2\\packages.config",
+              "RelativeToolTip": "Assesment2-Q2\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-29T05:24:22.589Z"
             }
           ]
         }
